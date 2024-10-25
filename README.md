@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Mansi Dixit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mansi090&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 - 🔹 Frontend Developer from India
-- 🔹 Passionate about web development, coding challenges, and open-source
+- 🔹 Passionate about web development, coding challenges,machine learning and open-source
 - 🔹 Working with **C++**, **Python**, and **JavaScript**
 - 🔹 Currently exploring backend development and databases 🗄️
 
