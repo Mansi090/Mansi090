@@ -51,7 +51,7 @@
 
 ### 🌟 Featured Projects
 - [Sorting Visualizer](https://github.com/mansi090/sorting-visualizer) - Interactive visualizer for sorting algorithms.
-- [Portfolio Website]((https://portfolio12-eight-azure.vercel.app/)) - Personal website showcasing projects and skills.
+- [Portfolio Website](https://portfolio12-eight-azure.vercel.app/) - Personal website showcasing projects and skills.
 
 <hr style="border:1px solid #0e75b6;">
 
